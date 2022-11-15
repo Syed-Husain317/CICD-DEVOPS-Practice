@@ -1,1 +1,1 @@
-# CICD-Practice
+# DEVOPS-Practice
